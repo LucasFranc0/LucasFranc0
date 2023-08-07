@@ -1,0 +1,2 @@
+- 👋 Hi, my name is Lucas Franco, i'm learning about some basic programming languages for job in the area...Such as HTML, CSS and JavaScript.
+- I hope i'll create a lot content here and become a excellent dev.
